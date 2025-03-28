@@ -8,3 +8,17 @@
 
 
 
+*Comment L'executer sur termux :*
+Copier et Coler les commande precedent 
+
+apt update 
+apt upgrade 
+pkg install python 
+pkg install git
+git clone https//github.com/Anonymous-txc/Detectvirus
+cd Detectvirus
+python Detectvirus.py
+
+
+
+
