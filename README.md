@@ -32,7 +32,7 @@ python Detectvirus.py
 
 *Merci d'utilise notre Sc comme outil pour ton tel*
 
-<a href="+50941050126">Contactez nous</a>
+<a href="https://wa.me/qr/WJRSVT4FC2VOF1">Contactez Moi Pour Plus</a>
 
 
 
