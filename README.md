@@ -11,7 +11,7 @@
 
 
 # Comment L'executer sur termux :
-*Copier et Coler les commande precedent* 
+*Copier et Coler les commande Suivante* 
 ```
 apt update 
 
