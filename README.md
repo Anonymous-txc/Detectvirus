@@ -4,7 +4,8 @@
 
 
 # Comment L'utilisé
-*Vous devez l'utilisé pour scanner les ficher que tu veut verifier  avant d'inataller en cas de virus en executant le Sc vous verra un exemple*
+*Vous devez l'utilisé pour scanner les ficher que tu veut verifier  avant d'installer en cas de virus en executant le Sc vous verra un exemple*
+
 *_enjoy your Sc_*
 
 
