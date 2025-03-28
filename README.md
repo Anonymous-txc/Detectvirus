@@ -12,7 +12,7 @@
 # Comment L'executer sur termux :
 *Copier et Coler les commande precedent* 
 
-apt update 
+``` apt update 
 
 apt upgrade
 
@@ -24,7 +24,7 @@ git clone https//github.com/Anonymous-txc/Detectvirus
 
 cd Detectvirus
 
-python Detectvirus.py
+python Detectvirus.py ```
 
 
 
