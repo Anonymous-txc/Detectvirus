@@ -3,21 +3,29 @@
 
 
 
-# *Vous devez l'utilisé pour scanner les ficher que tu veut verifier  avant d'inataller en cas de virus en executant le Sc vous verra un exemple*
+# Comment L'utilisé
+*Vous devez l'utilisé pour scanner les ficher que tu veut verifier  avant d'inataller en cas de virus en executant le Sc vous verra un exemple*
 *_enjoy your Sc_*
 
 
 
-*Comment L'executer sur termux :*
-Copier et Coler les commande precedent 
+# Comment L'executer sur termux :
+*Copier et Coler les commande precedent* 
 
 apt update 
-apt upgrade 
+
+apt upgrade
+
 pkg install python 
+
 pkg install git
+
 git clone https//github.com/Anonymous-txc/Detectvirus
+
 cd Detectvirus
+
 python Detectvirus.py
+
 
 
 
