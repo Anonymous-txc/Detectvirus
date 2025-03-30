@@ -21,8 +21,6 @@ pkg install python
 
 pkg install git
 
-pkg install colorama
-
 git clone https://github.com/Anonymous-txc/Detectvirus.git
 
 cd Detectvirus
