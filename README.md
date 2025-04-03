@@ -1,9 +1,2 @@
 
-<style>
-
-p { color: Red;
-  }
-</style>
-
-
-<p><strong>Ce Script est in valabe</strong></p>
+<p style = "color: red;" , font-sie: 60px;>Ce Script est Invalide</p>
